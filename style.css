@@ -6,7 +6,9 @@ h1{
     font-size: 100px;
     color: white;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px;
+    border: solid 3px gold;
 }
 main{
     min-height: 80vh;
